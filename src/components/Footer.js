@@ -1,8 +1,9 @@
 import React from "react";
-import InstagramIcon from "@material-ui/icons/Instagram";
-import TwitterIcon from "@material-ui/icons/Twitter";
-import FacebookIcon from "@material-ui/icons/Facebook";
-import LinkedInIcon from "@material-ui/icons/LinkedIn";
+import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import TwitterIcon from '@mui/icons-material/Twitter';
+import FacebookIcon from '@mui/icons-material/Facebook';
+import InstagramIcon from '@mui/icons-material/Instagram';
+
 import "../styles/Footer.css";
 
 function Footer() {
